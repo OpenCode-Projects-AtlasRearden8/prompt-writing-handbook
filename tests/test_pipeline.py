@@ -509,6 +509,7 @@ class RepoHygieneTests(unittest.TestCase):
             "STATUS.md",
             ".gitignore",
             ".git",
+            ".github",
             "scripts",
             "docs",
             "tests",
